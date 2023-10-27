@@ -3,8 +3,8 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/Swappy8771/product_user_management.git
+    cd product_user_management
     ```
 
 2. Install PHP dependencies with Composer:
